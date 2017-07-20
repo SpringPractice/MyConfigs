@@ -1,6 +1,6 @@
 spring:
   datasource:
-    username: scott
+    username: ram
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:oracle:thin:@//localhost:1521/PDBORCL
     driver-class-name: oracle.jdbc.driver.OracleDriver
